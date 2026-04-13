@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-label="个人简历缩略图">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f5f1e8" />
+      <stop offset="1" stop-color="#ece6d8" />
+    </linearGradient>
+    <linearGradient id="red" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#d9241f" />
+      <stop offset="1" stop-color="#a41713" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="760" fill="url(#bg)" />
+  <path d="M0 0h460L0 290z" fill="#111" />
+  <path d="M1200 0v280L760 0z" fill="url(#red)" />
+  <path d="M1030 760H640l560-380z" fill="#111" />
+
+  <rect x="110" y="96" width="980" height="568" fill="#f9f6ef" stroke="#111" stroke-width="3" />
+  <rect x="110" y="96" width="980" height="110" fill="#111" />
+  <text x="150" y="165" fill="#ffffff" font-size="62" font-family="Oswald, Arial, sans-serif" letter-spacing="3">RESUME</text>
+  <text x="400" y="165" fill="#d9241f" font-size="62" font-family="Oswald, Arial, sans-serif" letter-spacing="3">PREVIEW</text>
+
+  <rect x="150" y="254" width="360" height="360" fill="#efe8da" stroke="#111" stroke-width="2" />
+  <circle cx="330" cy="366" r="80" fill="#d9d0bf" stroke="#111" stroke-width="2" />
+  <rect x="226" y="456" width="206" height="120" fill="#d9d0bf" stroke="#111" stroke-width="2" />
+
+  <rect x="560" y="258" width="470" height="18" fill="#111" />
+  <rect x="560" y="296" width="360" height="12" fill="#777" />
+  <rect x="560" y="330" width="430" height="12" fill="#777" />
+  <rect x="560" y="364" width="390" height="12" fill="#777" />
+
+  <rect x="560" y="424" width="470" height="16" fill="#d9241f" />
+  <rect x="560" y="456" width="470" height="10" fill="#777" />
+  <rect x="560" y="484" width="420" height="10" fill="#777" />
+  <rect x="560" y="512" width="450" height="10" fill="#777" />
+  <rect x="560" y="540" width="390" height="10" fill="#777" />
+
+  <text x="154" y="730" fill="#111" font-size="28" font-family="Noto Sans SC, Arial, sans-serif">个人简历 · 宋函威 · 游戏行业市场营销</text>
+</svg>
