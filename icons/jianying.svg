@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="剪映 logo">
+  <rect width="128" height="128" rx="32" fill="#ffffff"/>
+  <path
+    d="M30 43c0-9.4 7.6-17 17-17h34c9.4 0 17 7.6 17 17v8.2l11-6.2v16.2L82.9 76 109 91.2v18.2L96 101.5V108c0 9.4-7.6 17-17 17H45c-9.4 0-17-7.6-17-17V97.4l28.7-16.8L30 64.8zm17 0v11.2l29.8 17.4L47 89.2V108h32V92.4L49.2 75 79 57.4V43z"
+    fill="#000000"
+  />
+</svg>

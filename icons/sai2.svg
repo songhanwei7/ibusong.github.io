@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="PaintTool SAI 2">
+  <circle cx="64" cy="64" r="58" fill="#f7fff2" stroke="#9fd27c" stroke-width="6"/>
+  <circle cx="64" cy="64" r="50" fill="#ffffff" stroke="#d7efc8" stroke-width="4"/>
+  <circle cx="64" cy="64" r="8" fill="#ffffff"/>
+  <path d="M64 64 60 22A42 42 0 0 1 84 28Z" fill="#f4a14a"/>
+  <path d="M64 64 84 28A42 42 0 0 1 101 48Z" fill="#b9d95b"/>
+  <path d="M64 64 101 48A42 42 0 0 1 103 74Z" fill="#72cbb4"/>
+  <path d="M64 64 103 74A42 42 0 0 1 87 95Z" fill="#53b2e7"/>
+  <path d="M64 64 87 95A42 42 0 0 1 60 106Z" fill="#4d62b8"/>
+  <path d="M64 64 60 106A42 42 0 0 1 37 95Z" fill="#7b53b2"/>
+  <path d="M64 64 37 95A42 42 0 0 1 25 72Z" fill="#bc57a4"/>
+  <path d="M64 64 25 72A42 42 0 0 1 27 46Z" fill="#df6276"/>
+  <path d="M64 64 27 46A42 42 0 0 1 45 28Z" fill="#ef7150"/>
+  <circle cx="64" cy="64" r="46" fill="none" stroke="#ffffff" stroke-width="4"/>
+</svg>
